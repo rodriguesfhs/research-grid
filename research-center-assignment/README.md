@@ -21,6 +21,25 @@ research-center-assignment/
 
 ---
 
+## Environment Setup
+
+```bash
+# Create a virtual environment
+python -m venv venv
+
+# Activate it
+source venv/bin/activate   # macOS/Linux
+venv\Scripts\activate      # Windows
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the FastAPI app
+uvicorn app:app --reload
+```
+
+---
+
 ## Approach
 
 ### 1. Data Exploration
