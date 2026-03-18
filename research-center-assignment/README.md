@@ -12,7 +12,7 @@ The work includes exploratory data analysis (EDA), feature selection, clustering
 research-center-assignment/
 │
 ├── research_centers.csv
-├── ML Test - Fabio Rodrigues.ipynb
+├── EDA_and_Model.ipynb
 ├── app.py
 ├── clustering_pipeline.joblib
 ├── requirements.txt
